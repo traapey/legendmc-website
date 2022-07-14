@@ -1,5 +1,5 @@
 <section align="center">
-<a href="https://skillicons.dev" align="center">
+<a align="center">
 <img align="center" src="https://cdn.discordapp.com/attachments/992272140550291467/995826767644340375/image.png"/>
                        </a> </section>
 
