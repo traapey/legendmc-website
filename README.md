@@ -7,4 +7,3 @@
 <h2 align="center">Site criado em:</h2>
 <img align="center" src="https://skillicons.dev/icons?i=js,css,html" style="align= center" />
 </section>
-..
